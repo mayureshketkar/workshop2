@@ -14,7 +14,7 @@ services:
       - DB_USER=postgres
       - DB_PASSWORD=admin123
       - DB_HOST=nctutorials.c2itpxi28sef.us-east-2.rds.amazonaws.com
-      - DB_PORT=5431
+      - DB_PORT=5432
       - DATABASE=postgres
       - VIRTUAL_HOST=ec2-3-12-228-25.us-east-2.compute.amazonaws.com
       - VIRTUAL_PORT=8000
